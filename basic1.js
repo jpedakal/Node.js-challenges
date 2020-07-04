@@ -1,1 +1,1 @@
-// Find the output of below code
+// What is the role of package-lock.json file ?
