@@ -18,8 +18,9 @@ https://stackoverflow.com/questions/44297803/what-is-the-role-of-the-package-loc
      let end= Date.now();
      let duration= ((end-start)/1000);
      console.log("JavaScript looped %d times in %d seconds", cycles, duration);
+     console.log(`looped  ${cycles} times in duration of ${duration}`)
  }
 
  main();
- 
+
 // Find the output of below code
