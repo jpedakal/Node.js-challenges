@@ -7,3 +7,4 @@ const Counter = function(i) { // Takes a starting number
   }
 
   Counter(2);
+  
